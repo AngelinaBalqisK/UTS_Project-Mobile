@@ -33,6 +33,11 @@ Pada halaman ini menunjukkan detail data lengkap masing-masing para pemberi resp
 
 ![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/17f36d8d-8a45-4d1d-8d2c-873045de1465)
 
+4. Revisi
+
+![image](https://github.com/YusufaHaidar1/Project-Mobile/assets/91399445/f63b0ff6-e4c5-41be-afdb-169bea13d872)
+
+
 # Daftar Konstributor 
 
 Anggota 1 
